@@ -1,0 +1,29 @@
+{
+  "title": "PF",
+  "id": "pf",
+  "system": "worldbuilding",
+  "joinTheme": "default",
+  "description": "<p>PFのデータです。</p>",
+  "coreVersion": "11.302",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "0.8.2",
+  "lastPlayed": "Wed Aug 16 2023 03:51:12 GMT+0900 (日本標準時)",
+  "packs": [
+    {
+      "label": "新規辞典",
+      "type": "Actor",
+      "name": "Actor-zD7BC2t47UYtiAyj",
+      "path": "packs/Actor-zD7BC2t47UYtiAyj",
+      "system": "worldbuilding",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "playtime": 1651
+}
